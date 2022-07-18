@@ -157,29 +157,30 @@ main{
     margin-left: 5px;
 }
 @media screen and (max-width:688px) {
-    }
-    .contanar{
-        width: 100%;
-    }
-    .players{
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .secetion-title{
-        margin-right: 10px;
-    }
-    .blogs{
-        margin-left: 5px;
-        display: flex;
-        flex-direction: column;
-    }
-    .courses{
-        margin-left: 5px;
-        display: flex;
-        flex-direction: column;
-    }
-    .course-info{
-        margin-bottom: 10px;
-    }
+
+.contanar{
+    width: 100%;
+}
+.players{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.secetion-title{
+    margin-right: 10px;
+}
+.blogs{
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.courses{
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.course-info{
+    margin-bottom: 10px;
+}
+}
